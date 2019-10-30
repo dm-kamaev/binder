@@ -100,3 +100,13 @@ new Binding({
   dom_el: getByID('i_2'),
   // dom_key: 'value',
 });
+
+
+
+void function() {
+  function FormValidator() {
+
+  }
+  getByID('i_11')
+  getByID('i_22')
+}();
